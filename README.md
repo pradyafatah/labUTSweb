@@ -72,6 +72,18 @@ Mata Kuliah: Pemrograman Web 1
 Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
 
 ## 📸 Preview Tampilan
+Login page
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a278498-091d-41fa-89b2-17dd0855dd75" />
+
+Dasboard
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe0cede7-acfd-471d-ad0f-b75eee80c2fd" />
+
+jadwal
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b32dca7-59e9-4ba0-a1dd-8535950dcd06" />
+
+
 
 
